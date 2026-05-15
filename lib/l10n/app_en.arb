@@ -1,0 +1,81 @@
+{
+  "@@locale": "en",
+  "appTitle": "KRYPTIX",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "deterministicSecurity": "DETERMINISTIC SECURITY",
+  "masterKey": "Master Key",
+  "enterMasterKey": "Enter your master key",
+  "serviceName": "Service Name",
+  "serviceExample": "e.g., google.com",
+  "passwordLength": "Password Length",
+  "generatedPassword": "Generated Password",
+  "copyToClipboard": "Copy to clipboard",
+  "passwordCopied": "Encrypted password copied",
+  "settings": "Settings",
+  "preferences": "PREFERENCES",
+  "saveMasterKeyLocally": "Save Master Key Locally",
+  "saveMasterKeySubtitle": "Securely store your master key using biometric or device lock authentication.",
+  "savedServices": "SAVED SERVICES",
+  "servicesCount": "{count} SERVICES",
+  "@servicesCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "addService": "Add Service",
+  "editService": "Edit Service",
+  "noSavedServices": "No saved services yet.",
+  "clearAllHistory": "CLEAR ALL HISTORY",
+  "historyCleared": "History cleared",
+  "privacyAndSecurity": "PRIVACY & SECURITY",
+  "localOnly": "Local Only",
+  "privacyDescription": "Kryptix does not send your data anywhere. Your master key, services, and generated passwords never leave your device. Everything is stored locally using industry-standard secure storage.",
+  "howItWorks": "HOW IT WORKS",
+  "zeroKnowledgeSecurity": "Zero-Knowledge Security",
+  "howItWorksDescription": "Kryptix mathematically derives your passwords using SHA-256 with 50,000 iterations of key stretching.",
+  "howItWorksBullet1": "Your Master Key never leaves this device.",
+  "howItWorksBullet2": "Nothing is ever sent to a server.",
+  "howItWorksBullet3": "Passwords are generated on-the-fly when you need them.",
+  "about": "ABOUT",
+  "githubRepository": "GitHub Repository",
+  "viewSourceCode": "View source code and contribute",
+  "cancel": "CANCEL",
+  "add": "ADD",
+  "update": "UPDATE",
+  "version": "Version",
+  "masterKeyStrength": "Strength: {strength}",
+  "@masterKeyStrength": {
+    "placeholders": {
+      "strength": {
+        "type": "String"
+      }
+    }
+  },
+  "waiting": "Waiting...",
+  "showPassword": "Show password",
+  "hidePassword": "Hide password",
+  "chars": "CHARS",
+  "weak": "WEAK",
+  "medium": "MEDIUM",
+  "strong": "STRONG",
+  "language": "Language",
+  "english": "English",
+  "arabic": "Arabic",
+  "onboarding1Title": "Deterministic Security",
+  "onboarding1Subtitle": "Passwords calculated, not stored. Your passwords are mathematically derived on-the-fly using advanced SHA-256 cryptography.",
+  "onboarding2Title": "Absolute Privacy",
+  "onboarding2Subtitle": "Your data never leaves your device. No cloud sync, no servers, no tracking. You are entirely in control.",
+  "onboarding3Title": "One Key for Everything",
+  "onboarding3Subtitle": "Memorize just one strong Master Key. Secure it locally using your device's biometric authentication.",
+  "getStarted": "GET STARTED",
+  "next": "NEXT",
+  "skip": "SKIP",
+  "returnToOnboarding": "Return to Onboarding",
+  "returnToOnboardingSubtitle": "Go through the introductory slides again",
+  "returnToOnboardingConfirm": "This will reset your onboarding status. Continue?",
+  "proceed": "PROCEED"
+}
