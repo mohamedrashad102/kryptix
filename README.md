@@ -6,7 +6,7 @@ Kryptix generates high-entropy, secure passwords using only a **Master Key** and
 
 ## Preview
 
-| Onboarding | Onboarding | Onboarding | Kryptix (Home) | Settings |
+| SECURITY | PRIVACY | SIMPLICITY | KRYPTIX  | SETTINGS |
 |---|---|---|---|---|
 | ![Onboarding 1](showcase/1.png) | ![Onboarding 2](showcase/2.png) | ![Onboarding 3](showcase/3.png) | ![Home Screen](showcase/4.png) | ![Settings](showcase/5.png) |
 
